@@ -1,6 +1,6 @@
 # :sparkles: :heart: Emoji-Cheat-Sheet.com :heart: :sparkles:
 
-A one pager listing the different emoji emoticons supported on
+A one page listing the different emoji emoticons supported on
 [Campfire](http://campfirenow.com/),
 [GitHub](http://github.com/),
 [Basecamp Next](http://37signals.com/basecampnext/),
@@ -57,9 +57,9 @@ A one pager listing the different emoji emoticons supported on
 [Status Hero](https://statushero.com/),
 & [Gitter](https://gitter.im/)
 
-:point_right: Check them out at our home page: http://emoji-cheat-sheet.com.
+:point_right: Check them out on our home page: http://emoji-cheat-sheet.com.
 
-## Contributions wanted - help people in their search for emojis
+## Contributors wanted - help people in their search for emojis
 
 There is a feature in the cheat sheet that allows you to add synonyms (or alternative names) for each emoji. This is used when use the ”Instant Search” search field in the page top.
 
